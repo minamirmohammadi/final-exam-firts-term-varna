@@ -1,0 +1,25 @@
+body{
+    direction: rtl !important;
+    font-family: iranian-sans;
+    margin: 0px;
+    padding: 0px;
+}
+
+ html{
+    scroll-behavior: smooth;
+} 
+ .test{
+    border: 1px solid red;
+} 
+
+ ::-webkit-scrollbar{
+    display: none !important;
+} 
+
+
+p{
+    color: gray;
+}
+button{
+    cursor: pointer;
+}
